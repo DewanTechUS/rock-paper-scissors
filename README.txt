@@ -1,4 +1,4 @@
-Rock, Paper, Scissors in Console mode (DEWAN MAHMUD)
+Rock, Paper, Scissors in Console mode - (DEWAN MAHMUD)
 
 How to run:
 1) Open index.html in your browser (double-click it).
